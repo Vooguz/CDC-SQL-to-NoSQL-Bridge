@@ -36,7 +36,7 @@ Designed with a **Trigger + Polling** methodology, it bridges the gap between tr
 
 **1. Clone the Repository:**
 ```bash
-git clone [https://github.com/YourUsername/CDC-SQL-to-NoSQL-Bridge.git](https://github.com/YourUsername/CDC-SQL-to-NoSQL-Bridge.git)
+git clone [https://github.com/Vooguz/CDC-SQL-to-NoSQL-Bridge.git](https://github.com/YourUsername/CDC-SQL-to-NoSQL-Bridge.git)
 cd CDC-SQL-to-NoSQL-Bridge
 ```
 2. Install Dependencies:
